@@ -1,4 +1,4 @@
-# Dynamics_of_aggressive_order
+# Dynamics of aggressive order
 
 Description of code about the paper "Dynamics of the aggressive order during the crisis"
 
