@@ -11,9 +11,7 @@ Gabjin Oh [4]
 [3] Asia Pacific Center for Theoretical Physics, Pohang, 37673, Republic of Korea
 [4] Chosun University, College of Business, Gwangju, 61452, Republic of Korea
 
-
-  
-    
+<br><br><br>
       
 
 Abstract
