@@ -1,7 +1,7 @@
 # Dynamics of aggressive order
-
-Description of code & data about the paper "Dynamics of the aggressive order during the crisis"
-
+<br>
+## Description of code & data about the paper "Dynamics of the aggressive order during the crisis"
+<br>
 Min-Young Lee [1]
 Woo-Sung Jung [1,2,3]
 Gabjin Oh [4]
@@ -11,8 +11,7 @@ Gabjin Oh [4]
 [3] Asia Pacific Center for Theoretical Physics, Pohang, 37673, Republic of Korea
 [4] Chosun University, College of Business, Gwangju, 61452, Republic of Korea
 
-<br><br><br>
-      
+<br><br> 
 
 Abstract
 
