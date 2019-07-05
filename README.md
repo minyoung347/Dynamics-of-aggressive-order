@@ -1,7 +1,11 @@
 # Dynamics of aggressive order
+
 <br>
+
 ## Description of code & data about the paper "Dynamics of the aggressive order during the crisis"
+
 <br>
+
 Min-Young Lee [1]
 Woo-Sung Jung [1,2,3]
 Gabjin Oh [4]
