@@ -1,8 +1,7 @@
 # Dynamics of aggressive order
 
 <br>
-
-## Description of code & data about the paper "Dynamics of the aggressive order during the crisis"
+##### Description of code & data about the paper "Dynamics of the aggressive order during the crisis"
 
 <br>
 
@@ -15,7 +14,7 @@ Gabjin Oh [4]
 [3] Asia Pacific Center for Theoretical Physics, Pohang, 37673, Republic of Korea
 [4] Chosun University, College of Business, Gwangju, 61452, Republic of Korea
 
-<br><br> 
+<br>
 
 Abstract
 
