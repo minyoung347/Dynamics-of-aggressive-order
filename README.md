@@ -1,6 +1,7 @@
 # Dynamics of aggressive order
 
 <br>
+
 ##### Description of code & data about the paper "Dynamics of the aggressive order during the crisis"
 
 <br>
