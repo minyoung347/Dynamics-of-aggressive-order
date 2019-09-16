@@ -1,4 +1,4 @@
-# Dynamics of the aggressive order during the crisis
+# The dynamics of the aggressive order during a crisis
 <br>
 
 ### Description of code & data about the paper
