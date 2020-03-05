@@ -1,4 +1,4 @@
-# Dynamics of the aggressive order during the crisis
+# The dynamics of the aggressive order during a crisis
 <br>
 
 ### Description of code & data about the paper
@@ -16,4 +16,5 @@ Min-Young Lee [1], Woo-Sung Jung [1,2,3], Gabjin Oh [4]
 
 Abstract
 
-Volatility in finance is an important indicator of risk to invest. We explain volatility as the dynamics of aggressive order. To this end, the market order is categorized into four aggressive types such as type Zero, One, A, and B based on the mechanism of the adverse price movement. Type B is the most aggressive order and the institutional traders submit it more than the individual traders. The macro- and micro-level approaches show the relationship between the dynamics of aggressive order and volatility and the impact of aggressive order respectively. The burstiness and memory of type B, especially, has a high correlation with volatility in the macroscopic analysis. Traders submit abruptly the aggressive orders during the crisis, and it is more predictable. In the micro-scale, we study the effect of each order based on the resilience and price impact. Type B has a higher impact than type A, even if the price change of type B is small. The results show the aggressive order has more information about a price due to price impact larger than execution cost.
+We investigate the dynamics of aggressive order in the financial market to further understand volatility. To analyze aggressive order, market orders in the order book are scrutinized. The market orders have different degrees of aggressiveness; therefore, we categorize market orders into four types: types Zero, One, A, and B, of which type B is the most aggressive. To examine the dynamics and impacts of each type of order, we use both macro- and micro-level approaches. From the macroscopic perspective, the burstiness and memory of type B is highly correlated with volatility. When traders face a financial crisis, they place bursty aggressive orders, and the orders are more
+predictable than usual. From the microscopic perspective, we additionally focus on the influence of the orders, particularly the price impact and resilience. The aggressive order has a greater impact than others, even when the price change of the aggressive order is smaller. Moreover, the aggressive order delivers more information on price because the aggressive order has a higher price impact than the execution cost.
